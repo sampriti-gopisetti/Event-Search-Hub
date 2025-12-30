@@ -37,7 +37,3 @@ To showcase versatility in different development environments, I implemented thi
 * **Tools:** Android Studio, Git, Bootstrap, NPM
 * **APIs:** Ticketmaster API, Google Maps API, IP-API (Geolocation)
 
----
-
-### Contact & Portfolio
-**Sampriti Gopisetti** [Portfolio Website](https://sampriti-gopisetti.github.io/Portfolio/) | [LinkedIn](YOUR_LINKEDIN_URL_HERE)
